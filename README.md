@@ -1,6 +1,4 @@
 # Auto_Class_System
-自動上線系統
-#  Kofu Order System
 
 | Details            |              |
 |-----------------------|---------------|
